@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech2text.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|solutionrelative:speech2text.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech_recognition.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|solutionrelative:speech_recognition.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\simple_speech2text.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|solutionrelative:simple_speech2text.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\app.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D8F1881C-C198-4C7D-8925-01DD0CC6142E}|virtual_chatbot.pyproj|solutionrelative:app.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "speech2text.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech2text.py",
+              "RelativeDocumentMoniker": "speech2text.py",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech2text.py",
+              "RelativeToolTip": "speech2text.py",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-30T07:02:04.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "speech_recognition.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech_recognition.py",
+              "RelativeDocumentMoniker": "speech_recognition.py",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\speech_recognition.py",
+              "RelativeToolTip": "speech_recognition.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-29T20:45:31.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "simple_speech2text.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\simple_speech2text.py",
+              "RelativeDocumentMoniker": "simple_speech2text.py",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\simple_speech2text.py",
+              "RelativeToolTip": "simple_speech2text.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-29T19:54:09.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mod.rs",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs",
+              "RelativeDocumentMoniker": "tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs",
+              "RelativeToolTip": "tokenizers\\tokenizers\\src\\models\\wordpiece\\mod.rs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAHwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-26T20:10:13.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "app.py",
+              "DocumentMoniker": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\app.py",
+              "RelativeDocumentMoniker": "app.py",
+              "ToolTip": "C:\\Users\\jevge\\OneDrive\\Dokumendid\\Python Scripts\\virtual_chatbot\\app.py",
+              "RelativeToolTip": "app.py",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-26T19:19:03.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
